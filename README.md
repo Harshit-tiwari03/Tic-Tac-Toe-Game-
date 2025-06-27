@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-Game-
-This is a Tic-Tac-Toe Game built with HTML,CSS and JAVASCRIPT 
+# Tic-Tac-Toe Game Project
+This is a Tic-Tac-Toe Game Project built with HTML,CSS and JAVASCRIPT 
