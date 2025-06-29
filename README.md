@@ -39,7 +39,7 @@ This is a Tic Tac Toe game built with **HTML, CSS, and JavaScript**. Play the cl
 
   ---
 
-Deployment : Netlify
+Deployment using Netlify.
 https://tic-tac-toegame-project.netlify.app/
 
 ---
